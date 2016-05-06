@@ -1,0 +1,4 @@
+CHECKLIST:
+Analog sticks start at VCC
+VCC is 5V
+Pin can drive both LED and xbox controller
