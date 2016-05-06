@@ -48,3 +48,5 @@ Temporary Items
 *.s#*
 *.b#*
 *.l#*
+*.lck
+interface_snap.scr
